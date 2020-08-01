@@ -1,2 +1,3 @@
 I like Git
 Because it is useful
+I will use it
